@@ -12,9 +12,6 @@ Credit  강건우 김원 도승범 조찬형 ✊
 ## 모든 분석 과정과 결과는 code/독수리사형제.ipynb에 목차별로 정리해 놓았습니다.
 
 
-<br>
-
-
 ----
 ## OverView
 ----
@@ -37,7 +34,7 @@ Credit  강건우 김원 도승범 조찬형 ✊
 ### 데이터셋은 대회 규정에 따라 업로드 할 수 없지만 다음 형식과 같습니다. 
 
 
-![img2](.src/2.png)
+![img2](/src/2.png)
 
 <br>
 
@@ -49,7 +46,7 @@ Credit  강건우 김원 도승범 조찬형 ✊
 
 
 
-![img3](.src/3.png)
+![img3](/src/3.png)
 
 
 <br>
@@ -60,9 +57,9 @@ Credit  강건우 김원 도승범 조찬형 ✊
 ## Modeling   
 ---
 
-![img4](.src/4.png)
+![img4](/src/4.png)
 
-![img5](.src/5.png)
+![img5](/src/5.png)
 
 <br>
 
@@ -71,4 +68,4 @@ Credit  강건우 김원 도승범 조찬형 ✊
 ## conclusion
 ---
 
-![img6](.src/6.png)
+![img6](/src/6.png)
