@@ -5,6 +5,9 @@
 ## 공모전 개요
 
 [2022 빅콘테스트 퓨처스리그](https://www.bigcontest.or.kr/points/content.php#ct04)
+![img8](/src/8.png)
+
+
 <br>
 
 ### 퓨처스리그 앱 사용성 데이터를 통한 대출신청 예측분석
